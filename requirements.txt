@@ -1,0 +1,11 @@
+pandas
+numpy
+openai
+langchain
+tqdm
+PyMuPDF
+sentence-transformers
+faiss-cpu
+spacy
+python-dotenv
+PyYAML
